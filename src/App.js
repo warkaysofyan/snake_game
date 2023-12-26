@@ -109,7 +109,7 @@ function App() {
 		const restartGameText = new fabric.Group([textBox1, restartText], {
 			top: 300,
 			left: 25,
-			selectable: false,
+			selectable: false, 
 			dirty: false,
 		})
 
